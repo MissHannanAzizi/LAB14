@@ -1,0 +1,6 @@
+SMPAT,Simpang Ampat,Alor Gajah,Thu Jun 01 00:00:00 MYT 2023,10.2,5.4,2.1
+SMPAT,Simpang Ampat,Alor Gajah,Fri Jun 02 00:00:00 MYT 2023,8.7,3.2,1.8
+SMPAT,Simpang Ampat,Alor Gajah,Sat Jun 03 00:00:00 MYT 2023,6.5,2.8,1.5
+SMPAT,Simpang Ampat,Alor Gajah,Sun Jun 04 00:00:00 MYT 2023,9.1,4.6,2.0
+SMPAT,Simpang Ampat,Alor Gajah,Mon Jun 05 00:00:00 MYT 2023,7.3,3.5,1.9
+SMPAT,Simpang Ampat,Alor Gajah,Tue Jun 06 00:00:00 MYT 2023,11.5,6.8,2.4
