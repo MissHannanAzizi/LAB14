@@ -13,8 +13,7 @@ public class RainfallData {
     private double totalOneHour;
 
     // Constructor to initialize the rainfall data object with the provided attribute values
-    public RainfallData(String stationId, String station, String district, Date lastUpdated, double dailyRainfall,
-                        double rainfallFromMidnight, double totalOneHour) {
+    public RainfallData(String stationId, String station, String district, Date lastUpdated, double dailyRainfall, double rainfallFromMidnight, double totalOneHour) {
         this.stationId = stationId;
         this.station = station;
         this.district = district;
